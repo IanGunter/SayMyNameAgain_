@@ -47,15 +47,17 @@ Module SayMyNameAgain
             ElseIf Input2 <> "Leishman" Or Input2 <> "Rossiter" Then
                 Console.WriteLine("Fine then. Keep your secrets ;)")
 
-
-
             End If
 
-
-            Console.ReadLine()
-
-
         End If
+
+        Console.ReadLine()
     End Sub
 
 End Module
+
+
+
+
+
+
